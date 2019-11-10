@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-image: url("Snow.jpg");
+}
+
+.jumbotron{
+    text-align: center;
+    background-color:rgb(182, 225, 238);
+}
+.container{
+    background-color: rgba(202, 15, 15, 0);
+}
